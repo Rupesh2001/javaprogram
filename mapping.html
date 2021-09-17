@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>my webpage</title>
+</head>
+<script>
+	function sum()
+	{
+		a=document.getElementById('number').value;
+		a=parseInt(a);
+		b=document.getElementById('number1').value;
+		b=parseInt(b);
+		document.getElementById('text1').value=a+b;
+
+	}
+	
+</script>
+<body>
+	<form>
+		<input type="text" name="number" id="number">
+		<input type="text" name="number1" id="number1">
+		<input type="text" id="text1" readonly="readonly">
+	<input type="button" name="btnclick" id="btnclick" value="Find" onclick="sum()">
+	</form>
+
+
+</body>
+</html>

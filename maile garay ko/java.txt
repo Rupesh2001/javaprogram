@@ -1,0 +1,20 @@
+bitwise operators
+
+~ | ^ >> >>> << <<< 
+
+bitwise logical operators
+	1.bitwise And operator
+	2.bitwise OR operator
+	3.bitwise XOR operator
+	4.bitwise NOT operator
+
+left shift operator(<<):
+	value<<num
+        eg:
+	1)65<<1
+
+right shift operator(<<):
+	value>>num
+        eg:
+	1)65>>2
+				

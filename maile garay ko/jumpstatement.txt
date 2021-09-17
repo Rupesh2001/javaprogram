@@ -1,0 +1,8 @@
+jump statement used in java:
+1. break
+	1.1 terminates a statement in a switch statement
+	1.2 to exit a loop
+	1.3 used as cicilized form of goto
+
+2. continue
+3. return	
